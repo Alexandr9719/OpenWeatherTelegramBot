@@ -77,8 +77,8 @@ namespace telegramBot
                 }
                 catch (AggregateException)
                 {
-
-                    await botTelegram.SendTextMessageAsync(message.Chat.Id, "Error city");
+                    botTelegram.SendTextMessageAsync(message.Chat.Id, "Error city");
+                   // await botTelegram.SendTextMessageAsync(message.Chat.Id, "Error city");
                 }
             }
 

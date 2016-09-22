@@ -1,0 +1,7 @@
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\telegramBot\Bin\Debug\PCL\OpenWeatherMap.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\telegramBot\Bin\Debug\PCL\OpenWeatherMap.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\telegramBot\OpenWeatherMap\obj\Debug\OpenWeatherMap.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\telegramBot\OpenWeatherMap\obj\Debug\OpenWeatherMap.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\telegramBot\Bin\Debug\PCL\OpenWeatherMap.dll.config
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\telegramBot\OpenWeatherMap\obj\Debug\OpenWeatherMap.csproj.App.config
+C:\Users\Александр\documents\visual studio 2015\Projects\telegramBot\OpenWeatherMap\obj\Debug\OpenWeatherMap.csprojResolveAssemblyReference.cache
